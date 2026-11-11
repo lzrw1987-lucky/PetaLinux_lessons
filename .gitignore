@@ -1,0 +1,8 @@
+hw/build/
+*.jou
+*.log
+.Xil/
+*.cache
+*.runs
+*.hw
+*.sim
